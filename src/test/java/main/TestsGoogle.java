@@ -17,6 +17,24 @@ public class TestsGoogle {
 
    }
 
+    @Test
+    public void testSearchButton()
+    {
+
+    }
+
+    @Test
+    public void testLuckyButton()
+    {
+
+    }
+
+    @Test
+    public void testChangeLanguage()
+    {
+
+    }
+
 
 
 
