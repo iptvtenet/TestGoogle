@@ -2,17 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bb26443-1700-4c77-a8b8-baecfb1095e2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/Group1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/Group2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/Group3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/Group4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/RunAllTests.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/main/TestGoogle2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/main/TestGoogle3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/main/TestGoogle4.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/main/TestsGoogle.class" afterPath="$PROJECT_DIR$/target/test-classes/main/TestsGoogle.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/main/BodyTests.java" afterPath="$PROJECT_DIR$/src/test/java/main/BodyTests.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/main/GooglePage.java" afterPath="$PROJECT_DIR$/src/test/java/main/GooglePage.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/main/TestsGoogle.java" afterPath="$PROJECT_DIR$/src/test/java/main/TestsGoogle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/utils/Tools.java" afterPath="$PROJECT_DIR$/src/test/java/utils/Tools.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/utils/Variables.java" afterPath="$PROJECT_DIR$/src/test/java/utils/Variables.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/Group1.xml" afterPath="$PROJECT_DIR$/src/test/resources/Group1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/Group2.xml" afterPath="$PROJECT_DIR$/src/test/resources/Group2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/Group3.xml" afterPath="$PROJECT_DIR$/src/test/resources/Group3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/Group4.xml" afterPath="$PROJECT_DIR$/src/test/resources/Group4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/RunAllTests.xml" afterPath="$PROJECT_DIR$/src/test/resources/RunAllTests.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/Group1.xml" afterPath="$PROJECT_DIR$/target/test-classes/Group1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/RunAllTests.xml" afterPath="$PROJECT_DIR$/target/test-classes/RunAllTests.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,56 +27,81 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GooglePage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/main/GooglePage.java">
+      <file leaf-file-name="TestsGoogle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/main/TestsGoogle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="12" column="63" lean-forward="false" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tools.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/utils/Tools.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="35" column="1" lean-forward="false" selection-start-line="35" selection-start-column="1" selection-end-line="40" selection-end-column="62" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BodyTests.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/main/BodyTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+            <state relative-caret-position="459">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#380#381#0" expanded="true" />
-                <element signature="e#473#474#0" expanded="true" />
+                <element signature="e#708#709#0" expanded="true" />
+                <element signature="e#737#738#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestsGoogle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/main/TestsGoogle.java">
+      <file leaf-file-name="TestGoogle3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/main/TestGoogle3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+            <state relative-caret-position="119">
+              <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+                <element signature="e#441#442#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestGoogle4.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/main/TestGoogle4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#418#419#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RunAllTests.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/RunAllTests.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RunAllTests.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/RunAllTests.xml">
+      <file leaf-file-name="TestGoogle1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/main/TestGoogle1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-              <folding />
+            <state relative-caret-position="204">
+              <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#414#415#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestGoogle2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/main/TestGoogle2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#416#417#0" expanded="true" />
+                <element signature="e#445#446#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,8 +109,8 @@
       <file leaf-file-name="Group1.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/Group1.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="19" selection-end-column="8" />
+            <state relative-caret-position="68">
+              <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -92,8 +119,8 @@
       <file leaf-file-name="Group2.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/Group2.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="5" column="41" lean-forward="false" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -102,34 +129,31 @@
       <file leaf-file-name="Group3.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/Group3.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            <state relative-caret-position="102">
+              <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Group4.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Group4.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/Group4.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Variables.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/utils/Variables.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="100" lean-forward="true" selection-start-line="7" selection-start-column="100" selection-end-line="7" selection-end-column="100" />
+            <state relative-caret-position="85">
+              <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -147,12 +171,18 @@
         <option value="$PROJECT_DIR$/src/test/java/utils/Tools.java" />
         <option value="$PROJECT_DIR$/src/test/java/main/GooglePage.java" />
         <option value="$PROJECT_DIR$/src/test/resources/RunTests.xml" />
-        <option value="$PROJECT_DIR$/src/test/resources/Group3.xml" />
         <option value="$PROJECT_DIR$/src/test/java/main/BodyTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/main/TestNGSuperClass.java" />
         <option value="$PROJECT_DIR$/src/test/java/main/TestsGoogle.java" />
         <option value="$PROJECT_DIR$/src/test/resources/Group1.xml" />
-        <option value="$PROJECT_DIR$/src/test/resources/Group2.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/main/TestGoogle1.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/Group3.xml" />
         <option value="$PROJECT_DIR$/src/test/resources/Group4.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/Group2.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/main/TestGoogle2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/main/TestGoogle4.java" />
+        <option value="$PROJECT_DIR$/src/test/java/main/TestGoogle3.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/RunAllTests.xml" />
       </list>
     </option>
   </component>
@@ -271,7 +301,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/google/TestGoogle/src/test/resources/Group4.xml">
+  <component name="RunManager" selected="TestNG.C:/google/TestGoogle/src/test/resources/Group3.xml">
     <configuration name="C:/google/TestGoogle/src/test/resources/Group1.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="google" />
@@ -305,6 +335,33 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/Group2.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="C:/google/TestGoogle/src/test/resources/Group3.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="google" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/Group3.xml" />
       <option name="PACKAGE_NAME" />
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
@@ -364,38 +421,6 @@
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="SUITE" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="TestsGoogle.testAboutGoogle" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="google" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="main" />
-      <option name="MAIN_CLASS_NAME" value="main.TestsGoogle" />
-      <option name="METHOD_NAME" value="testAboutGoogle" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -611,19 +636,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.TestsGoogle.testAboutGoogle" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.C:/google/TestGoogle/src/test/resources/RunTests.xml" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.C:/google/TestGoogle/src/test/resources/Group1.xml" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.C:/google/TestGoogle/src/test/resources/Group2.xml" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.C:/google/TestGoogle/src/test/resources/Group4.xml" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG.C:/google/TestGoogle/src/test/resources/RunTests.xml" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.C:/google/TestGoogle/src/test/resources/Group1.xml" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.C:/google/TestGoogle/src/test/resources/Group2.xml" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.C:/google/TestGoogle/src/test/resources/Group4.xml" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.C:/google/TestGoogle/src/test/resources/Group3.xml" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.C:/google/TestGoogle/src/test/resources/Group4.xml" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.C:/google/TestGoogle/src/test/resources/Group2.xml" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.C:/google/TestGoogle/src/test/resources/Group1.xml" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.C:/google/TestGoogle/src/test/resources/RunTests.xml" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.TestsGoogle.testAboutGoogle" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.C:/google/TestGoogle/src/test/resources/Group3.xml" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.C:/google/TestGoogle/src/test/resources/Group1.xml" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.C:/google/TestGoogle/src/test/resources/Group4.xml" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.C:/google/TestGoogle/src/test/resources/Group2.xml" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.C:/google/TestGoogle/src/test/resources/RunTests.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -641,25 +666,22 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__google_TestGoogle_src_test_resources_Group1_xml - 2018.08.30 at 10h 59m 25s.xml">
-      <configuration name="C:/google/TestGoogle/src/test/resources/Group1.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__google_TestGoogle_src_test_resources_Group1_xml - 2018.08.30 at 11h 01m 45s.xml">
-      <configuration name="C:/google/TestGoogle/src/test/resources/Group1.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__google_TestGoogle_src_test_resources_Group1_xml - 2018.08.30 at 11h 02m 46s.xml">
-      <configuration name="C:/google/TestGoogle/src/test/resources/Group1.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__google_TestGoogle_src_test_resources_Group1_xml - 2018.08.30 at 11h 03m 35s.xml">
-      <configuration name="C:/google/TestGoogle/src/test/resources/Group1.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__google_TestGoogle_src_test_resources_Group1_xml - 2018.08.30 at 11h 04m 32s.xml">
-      <configuration name="C:/google/TestGoogle/src/test/resources/Group1.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__google_TestGoogle_src_test_resources_Group1_xml - 2018.08.30 at 11h 05m 39s.xml">
-      <configuration name="C:/google/TestGoogle/src/test/resources/Group1.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="C__google_TestGoogle_src_test_resources_Group1_xml - 2018.08.30 at 11h 11m 39s.xml">
+      <configuration name="C:/google/TestGoogle/src/test/resources/Group1.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__google_TestGoogle_src_test_resources_Group1_xml - 2018.08.30 at 11h 16m 32s.xml">
+      <configuration name="C:/google/TestGoogle/src/test/resources/Group1.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__google_TestGoogle_src_test_resources_Group1_xml - 2018.08.30 at 11h 21m 14s.xml">
+      <configuration name="C:/google/TestGoogle/src/test/resources/Group1.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__google_TestGoogle_src_test_resources_Group1_xml - 2018.08.30 at 11h 30m 07s.xml">
+      <configuration name="C:/google/TestGoogle/src/test/resources/Group1.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__google_TestGoogle_src_test_resources_Group1_xml - 2018.08.30 at 11h 31m 09s.xml">
+      <configuration name="C:/google/TestGoogle/src/test/resources/Group1.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__google_TestGoogle_src_test_resources_Group1_xml - 2018.08.30 at 11h 35m 24s.xml">
       <configuration name="C:/google/TestGoogle/src/test/resources/Group1.xml" configurationId="TestNG" />
     </history-entry>
     <history-entry file="C__google_TestGoogle_src_test_resources_Group2_xml - 2018.08.30 at 11h 12m 15s.xml">
@@ -667,6 +689,9 @@
     </history-entry>
     <history-entry file="C__google_TestGoogle_src_test_resources_Group2_xml - 2018.08.30 at 11h 12m 42s.xml">
       <configuration name="C:/google/TestGoogle/src/test/resources/Group2.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__google_TestGoogle_src_test_resources_Group3_xml - 2018.08.30 at 11h 37m 40s.xml">
+      <configuration name="C:/google/TestGoogle/src/test/resources/Group3.xml" configurationId="TestNG" />
     </history-entry>
     <history-entry file="C__google_TestGoogle_src_test_resources_Group4_xml - 2018.08.30 at 11h 13m 13s.xml">
       <configuration name="C:/google/TestGoogle/src/test/resources/Group4.xml" configurationId="TestNG" />
@@ -793,7 +818,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="32" column="34" lean-forward="false" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="34" />
-          <folding />
+          <folding>
+            <element signature="e#708#709#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -845,7 +873,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#708#709#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -893,50 +924,109 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/main/TestsGoogle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/RunAllTests.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/main/TestNGSuperClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/Group1.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="19" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/Group2.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/Group3.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/Group4.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/Group3.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+          <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/Group2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="41" lean-forward="false" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/Group1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/main/TestGoogle2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/main/TestGoogle4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/main/TestGoogle3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/main/TestsGoogle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="e#708#709#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/main/TestGoogle1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/RunAllTests.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
           <folding />
         </state>
       </provider>

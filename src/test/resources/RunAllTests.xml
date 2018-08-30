@@ -2,14 +2,6 @@
 
 <suite name="TestsGoogle">
     <test name="TestGroup">
-        <!--<groups>-->
-            <!--<run>-->
-                <!--<include name="1"/>-->
-                <!--<include name="2"/>-->
-                <!--<include name="3"/>-->
-                <!--<include name="4"/>-->
-            <!--</run>-->
-        <!--</groups>-->
 
         <classes>
             <class name="main.TestsGoogle" />
