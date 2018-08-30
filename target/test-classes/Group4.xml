@@ -1,18 +1,9 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
-<suite name="TestsGoogle1">
-    <test name="TestGroup1">
-        <groups>
-            <run>
-                <include name="4"/>
-            </run>
-        </groups>
-
-        <packages>
-            <package name="main"/>
-        </packages>
+<suite name="TestsGoogle4">
+    <test name="TestGroup4">
         <classes>
-            <class name="main.TestsGoogle" />
+            <class name="main.TestGoogle4" />
 
         </classes>
     </test>

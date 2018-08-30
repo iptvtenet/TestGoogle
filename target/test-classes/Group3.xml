@@ -5,7 +5,6 @@
 
         <classes>
             <class name="main.TestGoogle3" />
-
         </classes>
     </test>
 </suite>
