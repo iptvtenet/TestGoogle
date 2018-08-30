@@ -1,5 +1,7 @@
 package utils;
 
+import main.BodyTests;
+import main.GooglePage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -41,7 +43,7 @@ public class Tools {
     }
 
     public static void finish() throws InterruptedException {
-        Thread.sleep(200);
+        Thread.sleep(2000);
         driver.quit();
     }
 }
